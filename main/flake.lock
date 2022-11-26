@@ -1118,7 +1118,7 @@
         "opengl": "opengl",
         "patty": "patty_2",
         "pixie": "pixie_2",
-        "src-fidgetty-devel": "src-fidgetty-devel",
+        "src-fidgetty-main": "src-fidgetty-main",
         "staticglfw": "staticglfw",
         "supersnappy": "supersnappy",
         "typography": "typography",
@@ -1313,19 +1313,19 @@
         "type": "github"
       }
     },
-    "src-fidgetty-devel": {
+    "src-fidgetty-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1666669996,
-        "narHash": "sha256-dLFYudfzBp2LgFYkcSn+UsWggVf5ykEkArSnC2VC4Q8=",
+        "lastModified": 1666259073,
+        "narHash": "sha256-UqMZyTsT1CCPxGy4TzBqK99kb43mFc4ICYVTRLknN4o=",
         "owner": "elcritch",
         "repo": "fidgets",
-        "rev": "162cf04cf262196facb2d7b4920571b287289da9",
+        "rev": "f021659f18550632ddd678fb4bfaf5142769928e",
         "type": "github"
       },
       "original": {
         "owner": "elcritch",
-        "ref": "refs/heads/devel",
+        "ref": "refs/heads/main",
         "repo": "fidgets",
         "type": "github"
       }
